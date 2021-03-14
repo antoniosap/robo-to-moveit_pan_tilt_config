@@ -8,7 +8,7 @@
 
     <!-- Run -->
     <node pkg="moveit_setup_assistant" type="moveit_setup_assistant" name="moveit_setup_assistant"
-          args="--config_pkg=robo-to-moveit_pant_tilt"
+          args="--config_pkg=robo-to-moveit_pan_tilt_config"
           launch-prefix="$(arg launch_prefix)"
           output="screen"/>
 

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1.3)
-project(robo-to-moveit_pant_tilt)
+project(robo-to-moveit_pan_tilt_config)
 
 find_package(catkin REQUIRED)
 

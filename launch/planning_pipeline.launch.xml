@@ -5,6 +5,6 @@
 
     <arg name="pipeline" default="ompl"/>
 
-    <include file="$(find robo-to-moveit_pant_tilt)/launch/$(arg pipeline)_planning_pipeline.launch.xml"/>
+    <include file="$(find robo-to-moveit_pan_tilt_config)/launch/$(arg pipeline)_planning_pipeline.launch.xml"/>
 
 </launch>

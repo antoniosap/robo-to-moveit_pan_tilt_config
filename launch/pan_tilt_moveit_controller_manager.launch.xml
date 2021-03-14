@@ -6,5 +6,5 @@
     <param name="moveit_controller_manager" value="$(arg moveit_controller_manager)"/>
 
     <!-- loads ros_controllers to the param server -->
-    <rosparam file="$(find robo-to-moveit_pant_tilt)/config/ros_controllers.yaml"/>
+    <rosparam file="$(find robo-to-moveit_pan_tilt_config)/config/ros_controllers.yaml"/>
 </launch>

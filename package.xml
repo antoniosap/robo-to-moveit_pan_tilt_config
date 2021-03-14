@@ -1,6 +1,6 @@
 <package>
 
-    <name>robo-to-moveit_pant_tilt</name>
+    <name>robo-to-moveit_pan_tilt_config</name>
     <version>0.3.0</version>
     <description>
         An automatically generated package with all the configuration and launch files for using the pan_tilt with the MoveIt Motion Planning
