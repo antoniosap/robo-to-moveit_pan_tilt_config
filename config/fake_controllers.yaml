@@ -5,4 +5,4 @@ controller_list:
       - tilt_joint
 initial: # Define initial robot poses.
   - group: pan_tilt_group
-    pose: on_poses
+    pose: on_pose
